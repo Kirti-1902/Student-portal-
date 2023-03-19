@@ -3,7 +3,7 @@
 >
 >If you find any bug or added new feature feel free to send a pull request.<br>
 >
->If you have any suggestions feel free create issues.
+>If you have any suggestions feel free to create issues.
 
 # Feature of Student Management System
 - User authentication and authorization
@@ -11,14 +11,7 @@
 - Student record creation and management
 - Course record creation and management
 - Semester record creation and management
-- Stack implementation for tracking course history
 - Calculation of GPA and academic standing
-- Graduation requirement tracking
-- Automated warning and notification system for academic standing
-- Automated notification system for missing course requirements
-- Ability to generate unofficial transcripts
-- Ability to request official transcripts
-- Integration with registrar's office for degree audits
 - Student advisement and planning tools
 - Integration with university course catalog and schedule of classes
 
