@@ -23,9 +23,9 @@
 
 # Screenshots
 ### Login screen<br>
-<img src="https://user-images.githubusercontent.com/107913296/226155737-3e25291f-31c6-4b7d-b2bb-244dc23ee19e.jpeg" width=500><br>
+<img src="https://user-images.githubusercontent.com/100422560/226247318-e5436812-43b2-4c0f-83c9-f3602729ff5a.png" width=500><br>
 ### Dashboard<br>
-<img src="https://user-images.githubusercontent.com/107913296/226156549-d27d0163-5d4c-41bd-887a-d2e3c7b13ddb.jpeg" width=500><br>###
+<img src="https://user-images.githubusercontent.com/100422560/226247527-8c0acfdf-9e26-42c6-847c-69634b723047.jpeg" width=500><br>
 ### Profile<br>
 <img src="https://user-images.githubusercontent.com/107913296/226156265-5ae854c1-87a7-4429-bf46-54ebbbf32ac7.jpeg" width=500><br>
 ### Semester<br>
@@ -42,4 +42,4 @@
 - Clone this project from https://github.com/Saloni029/Student-portal-
 - After clone you can see this login screen<br> <img src="https://user-images.githubusercontent.com/107913296/226155737-3e25291f-31c6-4b7d-b2bb-244dc23ee19e.jpeg" width=500><br>
 - Enter the credentials then you can see the dashboard on your screen.<br><img src="https://user-images.githubusercontent.com/107913296/226156549-d27d0163-5d4c-41bd-887a-d2e3c7b13ddb.jpeg" width=500><br>
-- Default login credentials are abc@gamil.com and student.
+- Default login credentials are user1@gmail.com and 123456.
